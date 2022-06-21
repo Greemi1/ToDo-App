@@ -2,7 +2,7 @@
 
 ## Description
 
-jest to pierwsza wersja tej aplikacji, aktualnie nie posiada local storage, lecz wkrótce wrzucę wersję z użyciem przechowywania zadań
+This is the first version of this application, currently it does not have local storage, but soon I will upload a version using task storagegit
 
 ### Used technologies:
 
